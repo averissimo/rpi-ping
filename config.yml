@@ -1,0 +1,2 @@
+retry: 3
+hostname: '172.17.2.1'
